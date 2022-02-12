@@ -30,8 +30,8 @@ It is not like the other bots which are being Suspended by Heroku. Hence, it can
    - Create a github account first.
    - Fork this repo above by turning on desktop sites.
    - then follow template method given below.
-   - Your Forked Url is looking Like: `https://github.com/YourGitName/Fire-X` ; YourGitName = Your Github Username.
-   - Now use this url to deploy: `Heroku.com/deploy?template=your forked url here` e.g.  `heroku.com/deploy?template=https://github.com/maihindu/Fire-X`; Here we put YourGitName = maihindu.   
+   - Your Forked Url is looking Like: `https://github.com/noobadtiya/Fire-X` ; YourGitName = Your Github Username.
+   - Now use this url to deploy: `Heroku.com/deploy?template=your forked url here` e.g.  `heroku.com/deploy?template=https://github.com/noobadtiya/Fire-X`; Here we put YourGitName = maihindu.   
 
 
 ### API ID AND API HASH 
